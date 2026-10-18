@@ -1,0 +1,56 @@
+3톡 (3TOK) 프리웨어 이용허락서 / Freeware License
+버전 2.1  ·  Version 2.1
+
+Copyright (c) 2026 유리나무yuriwood. All rights reserved.
+제작자 / Author: 유리나무yuriwood
+
+[한국어]
+
+이 문서에서 "제작자"는 유리나무yuriwood를 뜻합니다.
+
+1. 사용 허가
+   이 프로그램(3TOK.exe와 함께 배포되는 문서)은 개인·업무 용도를 포함해 누구나 무료로 설치하고
+   사용할 수 있습니다.
+
+2. 재배포
+   변경하지 않은 원본 배포 파일(ZIP 전체)을 그대로, 무료로 다시 배포하는 것은 허용됩니다.
+   이때 이 이용허락서와 THIRD_PARTY_NOTICES.txt를 함께 제공해야 합니다.
+   판매하거나, 다른 광고·설치 프로그램에 끼워 넣어 배포하는 것은 허용되지 않습니다.
+
+3. 제한
+   이 프로그램의 소스 코드는 제공되지 않습니다. 법이 명시적으로 허용하는 경우를 제외하고,
+   프로그램을 수정하여 배포하거나 역설계하여 파생 제품을 만드는 것은 허용되지 않습니다.
+
+4. 사용자 API 키와 비용
+   이 프로그램은 사용자가 직접 입력한 API 키로 OpenAI, Anthropic, Google 등의 서비스에 요청을
+   보냅니다. 해당 서비스의 이용 약관과 요금(API 사용료)은 사용자와 해당 회사 사이의 문제이며,
+   제작자는 이에 책임이 없습니다. 제작자는 사용자의 API 키를 수집하거나 전송하지 않습니다.
+
+5. 보증의 부인
+   이 프로그램은 "있는 그대로" 제공되며, 상품성·특정 목적 적합성·무결함에 대한 어떠한 보증도
+   하지 않습니다. 프로그램 사용으로 발생한 어떤 손해(데이터 손실, API 요금 포함)에 대해서도
+   제작자는 법이 허용하는 최대 범위에서 책임을 지지 않습니다.
+
+6. 제3자 소프트웨어
+   이 프로그램에는 Node.js(MIT 라이선스)와 Pretendard 글꼴(SIL Open Font License 1.1)이
+   포함되어 있습니다. 해당 고지는 THIRD_PARTY_NOTICES.txt에 있으며, 그 구성 요소에는
+   각자의 라이선스가 적용됩니다.
+
+[English]
+
+"The author" in this document means 유리나무yuriwood.
+
+1. Permission. You may install and use this program free of charge, for personal or business use.
+2. Redistribution. You may redistribute the unmodified, complete release package free of charge,
+   provided this license and THIRD_PARTY_NOTICES.txt are included. Selling it or bundling it with
+   other installers/advertising is not permitted.
+3. Restrictions. No source code is provided. Except where applicable law expressly allows it,
+   you may not distribute modified versions or reverse engineer the program to create derivatives.
+4. Your API keys and costs. The program sends requests to third-party AI services (OpenAI,
+   Anthropic, Google) using API keys that you enter yourself. Those services' terms and fees are
+   between you and the provider. The author does not collect or transmit your keys.
+5. No warranty. The program is provided "AS IS" without warranty of any kind. To the maximum
+   extent permitted by law, the author is not liable for any damages, including data loss or API
+   charges, arising from its use.
+6. Third-party software. Includes Node.js (MIT) and the Pretendard font (SIL OFL 1.1); see
+   THIRD_PARTY_NOTICES.txt.
