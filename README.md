@@ -1,3 +1,11 @@
+# 3TOK
+**A free Windows app where you and two AIs answer, discuss, and hold a meeting together.**
+- How: One question goes to two different AIs. They answer, review each other, and debate. You make the final call.
+- Download: https://github.com/yuriwood50-ai/3tok/releases/tag/v2.1.2
+- Status: v2.1.2 released on GitHub in Oct 2026. Designed and built with AI coding agents.
+
+---
+
 # 3톡 (3TOK) v2.1.2 — Windows 무료 프로그램
 
 **[최신 v2.1.2 다운로드](https://github.com/yuriwood50-ai/3tok/releases/tag/v2.1.2)**
